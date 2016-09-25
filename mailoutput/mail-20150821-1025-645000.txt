@@ -1,0 +1,23 @@
+To: a1@avon.com
+Subject: Don't forget about your clients
+Message-ID: <83863faa9b40a32fa29d01e01e9c21d4@swift.generated>
+Date: Fri, 21 Aug 2015 12:25:11 +0200
+From: Expire product <sender@sender.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Account 1 do not forget about your clients!
+
+Client: John ordered t=
+his products which probably expired:=20
+
+0. Super Product
+Client: John =
+Attribute ordered this products which probably expired:=20
+
+0. First Prod=
+uct
+1. First Product with tagsSubcategory
+2. Product with discount
+

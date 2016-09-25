@@ -1,0 +1,15 @@
+To: a2@avon.com
+Subject: Don't forget to send new brochure
+Message-ID: <ddce3da6b78c73ef2d6c331bed626f57@swift.generated>
+Date: Mon, 31 Aug 2015 12:19:56 +0200
+From: Reminder <sender@sender.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey Account2 some brochure are going to expire today:=20
+Brochure for Coffe=
+e shop located at: Coffee shop1 address: Porto rua Amial=20
+Phone number: 1=
+24412
+
